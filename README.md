@@ -1,0 +1,32 @@
+# FPV flight-control hardware, INAV firmware, and tuning tools
+
+I build and document FPV drone flight-control projects across hardware,
+firmware, and Blackbox-log analysis.
+
+## Featured Projects
+
+| Project | What it is | Status |
+|---|---|---|
+| [SkyPilot H743](https://github.com/19379353560/skypilot) | Open-source STM32H743 flight controller hardware for INAV, with ICM42688P IMU and firmware files. | Hardware project files and prebuilt INAV 9.0.1 firmware available |
+| [DIY Flight Controller and 4-in-1 ESC](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC) | 10-layer 75A 4-in-1 ESC hardware project with Gerbers, schematic, and PCB previews. | Manufacturing files published |
+| [INAV PID Tuner](https://github.com/19379353560/inav-pid-tuner) | FastAPI tool for analyzing INAV Blackbox logs and generating PID/filter tuning recommendations. | Prototype tool available |
+| [INAV Firmware Experiments](https://github.com/19379353560/inav) | Personal INAV branch focused on D-term pre-differentiation filtering, scheduler cleanup, and SkyPilot target support. | Pull requests opened upstream |
+
+## Current Focus
+
+- Reducing D-term noise amplification in INAV with pre-differentiation filtering.
+- Improving IMU sampling latency for custom STM32H743 flight-controller hardware.
+- Turning Blackbox logs into practical PID and filter tuning suggestions.
+- Publishing PCB files and firmware notes so other FPV builders can inspect and reproduce the work.
+
+## Upstream Work
+
+- [iNavFlight/inav#11464](https://github.com/iNavFlight/inav/pull/11464) - D-term pre-differentiation LPF.
+- [iNavFlight/inav#11465](https://github.com/iNavFlight/inav/pull/11465) - D-term pre-diff LPF plus code quality improvements.
+
+## Useful Links
+
+- [SkyPilot H743 flight controller](https://github.com/19379353560/skypilot)
+- [75A 4-in-1 ESC hardware](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC)
+- [INAV PID Tuner](https://github.com/19379353560/inav-pid-tuner)
+- [INAV firmware branch](https://github.com/19379353560/inav)
