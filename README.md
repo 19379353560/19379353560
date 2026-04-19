@@ -1,5 +1,7 @@
 # FPV flight-control hardware, INAV firmware, and tuning tools
 
+![FPV flight-control lab banner](assets/profile-cover.svg)
+
 [![GitHub profile](https://img.shields.io/badge/GitHub-19379353560-181717?logo=github)](https://github.com/19379353560)
 [![INAV](https://img.shields.io/badge/INAV-firmware-blue)](https://github.com/iNavFlight/inav)
 [![FPV](https://img.shields.io/badge/focus-FPV%20flight%20control-green)](https://github.com/19379353560?tab=repositories)
