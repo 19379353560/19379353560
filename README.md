@@ -56,7 +56,7 @@ The fastest way to help is to comment on one of the review-request issues above 
 ## Useful Links
 
 - [Portfolio site](https://19379353560.github.io/)
-- [SkyPilot H743 flight controller](https://github.com/19379353560/skypilot)
-- [75A 4-in-1 ESC hardware](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC)
-- [INAV PID Tuner](https://github.com/19379353560/inav-pid-tuner)
-- [INAV firmware branch](https://github.com/19379353560/inav)
+- [SkyPilot H743 project page](https://19379353560.github.io/skypilot.html)
+- [75A 4-in-1 ESC project page](https://19379353560.github.io/esc.html)
+- [INAV PID Tuner project page](https://19379353560.github.io/pid-tuner.html)
+- [INAV D-term pre-diff LPF project page](https://19379353560.github.io/inav-dterm-lpf.html)
