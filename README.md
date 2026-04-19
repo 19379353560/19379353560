@@ -1,5 +1,9 @@
 # FPV flight-control hardware, INAV firmware, and tuning tools
 
+[![GitHub profile](https://img.shields.io/badge/GitHub-19379353560-181717?logo=github)](https://github.com/19379353560)
+[![INAV](https://img.shields.io/badge/INAV-firmware-blue)](https://github.com/iNavFlight/inav)
+[![FPV](https://img.shields.io/badge/focus-FPV%20flight%20control-green)](https://github.com/19379353560?tab=repositories)
+
 I build and document FPV drone flight-control projects across hardware,
 firmware, and Blackbox-log analysis.
 
@@ -23,6 +27,15 @@ firmware, and Blackbox-log analysis.
 
 - [iNavFlight/inav#11464](https://github.com/iNavFlight/inav/pull/11464) - D-term pre-differentiation LPF.
 - [iNavFlight/inav#11465](https://github.com/iNavFlight/inav/pull/11465) - D-term pre-diff LPF plus code quality improvements.
+
+## Feedback Welcome
+
+I am especially interested in feedback from INAV and FPV builders on:
+
+- D-term filtering behavior on noisy frames.
+- STM32H743 flight-controller target design.
+- Blackbox-based PID and filter tuning workflows.
+- PCB layout review for high-current ESC and IMU signal integrity.
 
 ## Useful Links
 
