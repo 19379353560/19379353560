@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">FPV flight-control hardware, INAV firmware, and tuning tools</title>
+  <desc id="desc">A technical banner showing a flight controller, ESC traces, a PID tuning graph, and INAV firmware work.</desc>
+  <rect width="1200" height="420" fill="#f7faf9"/>
+  <rect x="0" y="0" width="1200" height="12" fill="#111827"/>
+  <g transform="translate(72 66)">
+    <text x="0" y="0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="800" fill="#111827">FPV Flight-Control Lab</text>
+    <text x="0" y="48" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" fill="#374151">Hardware, INAV firmware experiments, and Blackbox-based tuning tools</text>
+    <g transform="translate(0 88)">
+      <rect x="0" y="0" width="182" height="36" rx="8" fill="#0f766e"/>
+      <text x="18" y="24" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">STM32H743</text>
+      <rect x="198" y="0" width="132" height="36" rx="8" fill="#2563eb"/>
+      <text x="216" y="24" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">INAV</text>
+      <rect x="346" y="0" width="174" height="36" rx="8" fill="#ea580c"/>
+      <text x="364" y="24" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">Blackbox</text>
+    </g>
+  </g>
+  <g transform="translate(694 52)">
+    <rect x="0" y="0" width="404" height="270" rx="8" fill="#111827"/>
+    <rect x="18" y="18" width="368" height="234" rx="8" fill="#1f2937"/>
+    <g stroke="#34d399" stroke-width="5" fill="none" stroke-linecap="round">
+      <path d="M62 70 H144 V118 H214"/>
+      <path d="M64 172 H128 V138 H210"/>
+      <path d="M218 118 H304 V76"/>
+      <path d="M218 138 H304 V184"/>
+    </g>
+    <g fill="#e5e7eb" stroke="#9ca3af" stroke-width="3">
+      <rect x="168" y="88" width="72" height="72" rx="8"/>
+      <circle cx="62" cy="70" r="14"/>
+      <circle cx="64" cy="172" r="14"/>
+      <circle cx="304" cy="76" r="14"/>
+      <circle cx="304" cy="184" r="14"/>
+    </g>
+    <text x="154" y="204" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#f9fafb">flight controller</text>
+  </g>
+  <g transform="translate(74 258)">
+    <polyline points="0,56 54,48 106,65 156,34 206,42 256,18 306,24 356,10 406,22 456,14" fill="none" stroke="#2563eb" stroke-width="5"/>
+    <polyline points="0,92 54,82 106,96 156,72 206,78 256,54 306,58 356,42 406,50 456,44" fill="none" stroke="#ea580c" stroke-width="5"/>
+    <text x="0" y="132" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#4b5563">PID/filter experiments from real flight logs</text>
+  </g>
+</svg>
