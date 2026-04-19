@@ -14,12 +14,12 @@ firmware, and Blackbox-log analysis.
 
 If you work with INAV, FPV hardware, ESCs, or Blackbox logs, specific feedback is welcome:
 
-| Area | What I need | Link |
+| Area | What I need | Links |
 |---|---|---|
-| SkyPilot H743 | PCB layout, ICM42688P DRDY wiring, vibration and grounding review | [Review issue](https://github.com/19379353560/skypilot/issues/1) |
-| 75A 4-in-1 ESC | High-current routing, MOSFET/gate-driver placement, thermal assumptions | [Review issue](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/issues/1) |
-| INAV PID Tuner | Anonymized Blackbox logs and tuning-rule feedback | [Share logs](https://github.com/19379353560/inav-pid-tuner/issues/1) |
-| INAV D-term LPF | Flight-test logs on noisy frames and filter-profile behavior | [Flight-test issue](https://github.com/19379353560/inav/issues/1) |
+| SkyPilot H743 | PCB layout, ICM42688P DRDY wiring, vibration and grounding review | [Issue](https://github.com/19379353560/skypilot/issues/1) / [Discussion](https://github.com/19379353560/skypilot/discussions/2) |
+| 75A 4-in-1 ESC | High-current routing, MOSFET/gate-driver placement, thermal assumptions | [Issue](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/issues/1) / [Discussion](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/discussions/2) |
+| INAV PID Tuner | Anonymized Blackbox logs and tuning-rule feedback | [Issue](https://github.com/19379353560/inav-pid-tuner/issues/1) / [Discussion](https://github.com/19379353560/inav-pid-tuner/discussions/2) |
+| INAV D-term LPF | Flight-test logs on noisy frames and filter-profile behavior | [Issue](https://github.com/19379353560/inav/issues/1) / [Discussion](https://github.com/19379353560/inav/discussions/2) |
 
 ## Featured Projects
 
