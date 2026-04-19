@@ -3,6 +3,7 @@
 ![FPV flight-control lab banner](assets/profile-cover.svg)
 
 [![GitHub profile](https://img.shields.io/badge/GitHub-19379353560-181717?logo=github)](https://github.com/19379353560)
+[![Portfolio](https://img.shields.io/badge/Portfolio-19379353560.github.io-0f766e)](https://19379353560.github.io/)
 [![INAV](https://img.shields.io/badge/INAV-firmware-blue)](https://github.com/iNavFlight/inav)
 [![FPV](https://img.shields.io/badge/focus-FPV%20flight%20control-green)](https://github.com/19379353560?tab=repositories)
 
@@ -41,6 +42,7 @@ I am especially interested in feedback from INAV and FPV builders on:
 
 ## Useful Links
 
+- [Portfolio site](https://19379353560.github.io/)
 - [SkyPilot H743 flight controller](https://github.com/19379353560/skypilot)
 - [75A 4-in-1 ESC hardware](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC)
 - [INAV PID Tuner](https://github.com/19379353560/inav-pid-tuner)
