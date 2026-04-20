@@ -7,6 +7,7 @@
 [![Updates](https://img.shields.io/badge/Updates-RSS%20%2B%20changelog-c2410c)](https://19379353560.github.io/updates.html)
 [![Press Kit](https://img.shields.io/badge/Press%20Kit-shareable%20links-2563eb)](https://19379353560.github.io/press-kit.html)
 [![Guides](https://img.shields.io/badge/Guides-review%20checklists-0f766e)](https://19379353560.github.io/guides.html)
+[![Contribute](https://img.shields.io/badge/Contribute-good%20first%20issues-b91c1c)](https://19379353560.github.io/contribute.html)
 [![INAV](https://img.shields.io/badge/INAV-firmware-blue)](https://github.com/iNavFlight/inav)
 [![FPV](https://img.shields.io/badge/focus-FPV%20flight%20control-green)](https://github.com/19379353560?tab=repositories)
 
@@ -59,6 +60,7 @@ The fastest way to help is to comment on one of the review-request issues above 
 ## Useful Links
 
 - [Portfolio site](https://19379353560.github.io/)
+- [Good first issues and contribution paths](https://19379353560.github.io/contribute.html)
 - [Updates and RSS](https://19379353560.github.io/updates.html)
 - [Press kit and project data](https://19379353560.github.io/press-kit.html)
 - [Guides and review checklists](https://19379353560.github.io/guides.html)
