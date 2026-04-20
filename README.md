@@ -5,6 +5,7 @@
 [![GitHub profile](https://img.shields.io/badge/GitHub-19379353560-181717?logo=github)](https://github.com/19379353560)
 [![Portfolio](https://img.shields.io/badge/Portfolio-19379353560.github.io-0f766e)](https://19379353560.github.io/)
 [![Updates](https://img.shields.io/badge/Updates-RSS%20%2B%20changelog-c2410c)](https://19379353560.github.io/updates.html)
+[![Press Kit](https://img.shields.io/badge/Press%20Kit-shareable%20links-2563eb)](https://19379353560.github.io/press-kit.html)
 [![INAV](https://img.shields.io/badge/INAV-firmware-blue)](https://github.com/iNavFlight/inav)
 [![FPV](https://img.shields.io/badge/focus-FPV%20flight%20control-green)](https://github.com/19379353560?tab=repositories)
 
@@ -58,6 +59,7 @@ The fastest way to help is to comment on one of the review-request issues above 
 
 - [Portfolio site](https://19379353560.github.io/)
 - [Updates and RSS](https://19379353560.github.io/updates.html)
+- [Press kit and project data](https://19379353560.github.io/press-kit.html)
 - [AI-readable project summary](https://19379353560.github.io/llms.txt)
 - [SkyPilot H743 project page](https://19379353560.github.io/skypilot.html)
 - [75A 4-in-1 ESC project page](https://19379353560.github.io/esc.html)
