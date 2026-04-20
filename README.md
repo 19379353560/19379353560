@@ -64,6 +64,7 @@ The fastest way to help is to comment on one of the review-request issues above 
 - [Updates and RSS](https://19379353560.github.io/updates.html)
 - [Press kit and project data](https://19379353560.github.io/press-kit.html)
 - [Guides and review checklists](https://19379353560.github.io/guides.html)
+- [D-term pre-diff LPF technical note](https://19379353560.github.io/dterm-prefilter-technical-note.html)
 - [AI-readable project summary](https://19379353560.github.io/llms.txt)
 - [SkyPilot H743 project page](https://19379353560.github.io/skypilot.html)
 - [75A 4-in-1 ESC project page](https://19379353560.github.io/esc.html)
